@@ -1,0 +1,47 @@
+2025-04-21 18:45:33 INFO  Tc002_LoginTest:16 - Starting Tc002_LoginTest 
+2025-04-21 18:45:35 INFO  Tc002_LoginTest:41 - Katam Tc002_LoginTest 
+2025-04-21 18:45:39 INFO  TC003_LoginDDT:20 - TC_003 Started LoginDDT
+2025-04-21 18:45:41 INFO  TC003_LoginDDT:75 - Login DDT Test Completed
+2025-04-21 18:45:41 INFO  TC003_LoginDDT:20 - TC_003 Started LoginDDT
+2025-04-21 18:45:43 INFO  TC003_LoginDDT:20 - TC_003 Started LoginDDT
+2025-04-21 18:45:46 INFO  TC003_LoginDDT:20 - TC_003 Started LoginDDT
+2025-04-21 18:45:57 INFO  TC003_LoginDDT:75 - Login DDT Test Completed
+2025-04-21 18:45:57 INFO  TC003_LoginDDT:20 - TC_003 Started LoginDDT
+2025-04-21 18:45:59 INFO  TC003_LoginDDT:75 - Login DDT Test Completed
+2025-04-21 18:53:27 INFO  Tc002_LoginTest:16 - Starting Tc002_LoginTest 
+2025-04-21 18:53:28 INFO  Tc002_LoginTest:41 - Katam Tc002_LoginTest 
+2025-04-21 18:53:34 INFO  TC003_LoginDDT:20 - TC_003 Started LoginDDT
+2025-04-21 18:53:36 INFO  TC003_LoginDDT:75 - Login DDT Test Completed
+2025-04-21 18:53:36 INFO  TC003_LoginDDT:20 - TC_003 Started LoginDDT
+2025-04-21 18:53:38 INFO  TC003_LoginDDT:20 - TC_003 Started LoginDDT
+2025-04-21 18:53:41 INFO  TC003_LoginDDT:20 - TC_003 Started LoginDDT
+2025-04-21 18:53:52 INFO  TC003_LoginDDT:75 - Login DDT Test Completed
+2025-04-21 18:53:52 INFO  TC003_LoginDDT:20 - TC_003 Started LoginDDT
+2025-04-21 18:53:54 INFO  TC003_LoginDDT:75 - Login DDT Test Completed
+2025-04-21 18:55:14 INFO  TC_001AcntReg:17 - Test started
+2025-04-21 18:55:14 INFO  TC_001AcntReg:19 - Clicked on MyAccount Link.. 
+2025-04-21 18:55:15 INFO  TC_001AcntReg:22 - Clicked on Registration
+2025-04-21 18:55:15 INFO  TC_001AcntReg:25 - Customer details
+2025-04-21 18:55:16 INFO  TC_001AcntReg:43 - Validating expected message..
+2025-04-21 18:55:16 INFO  TC_001AcntReg:48 - Test passed
+2025-04-21 18:55:16 INFO  TC_001AcntReg:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-04-21 18:55:20 INFO  Tc002_LoginTest:16 - Starting Tc002_LoginTest 
+2025-04-21 18:55:21 INFO  Tc002_LoginTest:41 - Katam Tc002_LoginTest 
+2025-04-21 19:18:59 INFO  TC_001AcntReg:17 - Test started
+2025-04-21 19:18:59 INFO  TC_001AcntReg:19 - Clicked on MyAccount Link.. 
+2025-04-21 19:19:00 INFO  TC_001AcntReg:22 - Clicked on Registration
+2025-04-21 19:19:00 INFO  TC_001AcntReg:25 - Customer details
+2025-04-21 19:19:01 INFO  TC_001AcntReg:43 - Validating expected message..
+2025-04-21 19:19:01 INFO  TC_001AcntReg:48 - Test passed
+2025-04-21 19:19:01 INFO  TC_001AcntReg:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-04-21 19:19:05 INFO  Tc002_LoginTest:16 - Starting Tc002_LoginTest 
+2025-04-21 19:19:07 INFO  Tc002_LoginTest:41 - Katam Tc002_LoginTest 
+2025-04-21 19:27:54 INFO  TC_001AcntReg:17 - Test started
+2025-04-21 19:27:54 INFO  TC_001AcntReg:19 - Clicked on MyAccount Link.. 
+2025-04-21 19:27:55 INFO  TC_001AcntReg:22 - Clicked on Registration
+2025-04-21 19:27:55 INFO  TC_001AcntReg:25 - Customer details
+2025-04-21 19:27:57 INFO  TC_001AcntReg:43 - Validating expected message..
+2025-04-21 19:27:57 INFO  TC_001AcntReg:48 - Test passed
+2025-04-21 19:27:57 INFO  TC_001AcntReg:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-04-21 19:28:04 INFO  Tc002_LoginTest:16 - Starting Tc002_LoginTest 
+2025-04-21 19:28:06 INFO  Tc002_LoginTest:41 - Katam Tc002_LoginTest 
